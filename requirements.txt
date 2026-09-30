@@ -1,0 +1,12 @@
+# Minimal dependency set for the simplified voice assistant:
+# ask a question and get an answer (via the x.ai/Grok API), and open
+# apps/websites like Chrome, WhatsApp, and YouTube. No face auth, no
+# phone/ADB automation, no hotword listener.
+beautifulsoup4
+Eel
+markdown2
+openai
+playsound3
+PyAudio
+pywhatkit
+SpeechRecognition

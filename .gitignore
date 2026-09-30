@@ -1,0 +1,24 @@
+# Virtual Environment
+envjarvis/
+venv/
+.venv/
+
+# Environment Variables & API Keys
+.env
+
+# Local Databases & Sensitive Data
+jarvis.db
+contacts.csv
+/engine/cookies.json
+
+# Audio Recording Cache
+*.wav
+temp_speech.wav
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+
+# IDE Settings
+.vscode/
+.idea/
